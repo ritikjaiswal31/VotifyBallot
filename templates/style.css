@@ -1,0 +1,7 @@
+.img1{
+    background-image: url("https://www.bing.com/ck/a?!&&p=c5e074d3cc8fabc7JmltdHM9MTY4MTQzMDQwMCZpZ3VpZD0wZjUxODk2OS0yNmM1LTZjMDMtMmRkOC05YmU2MjJjNTZhMDEmaW5zaWQ9NTQ4NQ&ptn=3&hsh=3&fclid=0f518969-26c5-6c03-2dd8-9be622c56a01&u=a1L2ltYWdlcy9zZWFyY2g_cT0zMDAwcHglMjBIZWlnaHQlMjBvZiUyMEluZGlhbiUyMEZsYWcmRk9STT1JUUZSQkEmaWQ9MDUyRDk1OTVBQUJENjUxQTkyQzk2OTZGQUY2Njg1MDEzODEwRUNEQg&ntb=1");
+    background-size: contain;
+    height: 1500px;
+    width: 1000px;
+    overflow: scroll;
+}
