@@ -11,7 +11,7 @@ pwd=''
 def LogIn(request):
     global ad,pwd
     if request.method=='POST':
-        mysql=sql.connect(host='localhost',user='root',password="root@1234",database='web_python_votingsystem')
+        mysql=sql.connect(host='database.cqtvzr6cswne.ap-south-1.rds.amazonaws.com',user='admin',password="RitikJaiswal123",database='web_python_votingsystem')
         cursor=mysql.cursor()
         ad=request.POST.get('Aadhaar_no')
         pwd=request.POST.get('password')
