@@ -1,0 +1,14 @@
+sudo apt-get update
+git clone https://github.com/ritikjaiswal31/Cloud_Application_Development.git
+cd Cloud_Application_Development
+cd Vote
+sudo apt install python3-pip -y
+pip install django
+sudo apt-get install python3-dev default-libmysqlclient-dev build-essential
+pip install mysql-connector-python
+python3 manage.py makemigrations
+pip install mysqlclient
+python3 manage.py migrate
+python3 manage.py runserver 0.0.0.0:8000
+After that we have to manually change the Inbound rules of the instance change it to Custom TCP and Port to 8000 and Anywhere IPV4
+After that you will be able to access the dashboard.
