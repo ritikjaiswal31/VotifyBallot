@@ -1,7 +1,7 @@
 # Cloud_Application_Development Continuous Evaluation
 Cloud Application Development Continuous Evaluation - AWS Deployment
 
-Problem Statement: Intelligent Computing Methods for Developing a Cloud-Based Online Voting System Web Application (Votify) using Django.
+Problem Statement: Intelligent Computing Methods for Developing a Cloud-Based Electronic Voting Platform Web Application (Votify) using Django.
 
 Technology Stack: These are the technology stack in my project:
 
