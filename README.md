@@ -1,21 +1,10 @@
-# Cloud_Application_Development Continuous Evaluation
-Cloud Application Development Continuous Evaluation - AWS Deployment
+## Votify
+
+# Votify: Cloud-Based Electronic Voting Platform with AWS Deployment 
 
 Problem Statement: Intelligent Computing Methods for Developing a Cloud-Based Electronic Voting Platform Web Application (Votify) using Django.
 
-Technology Stack: These are the technology stack in my project:
-
-•	Frontend: Bootstrap: CSS Framework – HTML and CSS
-
-•	Backend: Django – Python Web Based Framework  
-
-•	Public Cloud Deployment Platform: AWS (Amazon Web Services)
-
-•	Database Connectivity: MySQL Database
-
-•	AWS Services: EC2 (Instance), RDS (Relational Database) and IAM (Identity and Access Management – Security Groups).
-
-These are the technology stack in deploying my project on AWS of Votify – E-Voting System.
+Votify is a secure, cloud-based electronic voting platform developed using Django (Python) and deployed on Amazon Web Services (AWS) to ensure scalability, accessibility, and data integrity in digital elections. The platform leverages intelligent computing methods to safeguard the voting process, incorporating robust authentication and authorization through AWS IAM, seamless backend logic with Django, and a responsive user interface built using Bootstrap, HTML, and CSS. It utilizes AWS EC2 for hosting the application and AWS RDS (MySQL) for managing relational data storage, ensuring high availability and security. Designed with a focus on transparency, reliability, and modern cloud infrastructure, Votify demonstrates the integration of full-stack web development with cloud deployment to deliver a real-world solution for conducting safe and efficient online elections.
 
 ![image](https://user-images.githubusercontent.com/110025521/232314859-46b5cf40-7fdb-4db6-a0e9-27af16c6bbcd.png)
 
