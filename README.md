@@ -1,8 +1,8 @@
 # Votify
 
-## Votify: Cloud-Based Secured Voting Platform with AWS Deployment 
+## Votify: Cloud-Based Secure Voting Platform with AWS Deployment 
 
---> Problem Statement: Intelligent Computing Methods for Developing a Cloud-Based Secured Voting Platform Web Application (Votify) using Django.
+--> Problem Statement: Intelligent Computing Methods for Developing a Cloud-Based Secure Voting Platform Web Application (Votify) using Django.
 
 --> Developed a secure and scalable electronic voting platform using Django (Python), hosted on Amazon Web Services (AWS).
 
