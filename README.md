@@ -1,4 +1,4 @@
-# Votify
+# Votify - Cloud Application Development
 
 ## Votify: Cloud-Based Secure Voting Platform with AWS Deployment 
 
