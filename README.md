@@ -2,17 +2,21 @@
 
 ## Votify Ballot - Cloud-Based Secure Voting Portal
 
---> Problem Statement: Intelligent Computing Methods for Developing a Cloud-Based Secure Voting Platform using Django.
+🔧 Features & Tech Highlights
 
---> Developed a secure and scalable electronic voting platform using Django (Python), hosted on Amazon Web Services (AWS).
+🛡️ Developed a secure and scalable electronic voting system using Django (Python).
 
---> Integrated intelligent computing methods to ensure safe, transparent, and reliable digital elections.
+🌐 Designed a responsive frontend with HTML, CSS, and Bootstrap for an intuitive user interface.
 
---> Designed a responsive frontend using Bootstrap, HTML, and CSS for an intuitive user experience.
+☁️ Hosted the application on AWS EC2 for high availability and performance.
 
---> Utilized AWS EC2 for application hosting and AWS RDS (MySQL) for reliable, managed database storage.
+🗃️ Used AWS RDS (MySQL) for reliable, managed database storage.
 
---> Implemented role-based access control and secure resource management using AWS IAM.
+🔐 Implemented AWS IAM for secure role-based access control and resource-level permissions.
+
+🧷 Enabled AWS KMS encryption for data-at-rest security across RDS and associated resources.
+
+⚙️ Integrated intelligent system logic to ensure transparency, safety, and reliability during digital elections.
 
 ☁️ Preparing AWS Cloud Infrastucture for Deployment – Votify Ballot
 
@@ -26,7 +30,7 @@
 
 ![image](https://github.com/user-attachments/assets/02f437ff-5b32-410f-84ae-eb1b0a56fcd6)
 
-☁️ AWS EC2 Deployment – Votify Ballot
+☁️ AWS EC2 Deployment
 
 ![image](https://github.com/user-attachments/assets/9a2e658c-d631-4f06-aeed-95a17b96280e)
 
@@ -34,13 +38,17 @@
 
 ![image](https://github.com/user-attachments/assets/d308f2e7-1792-4dbb-b185-9672f40d6752)
 
-☁️ AWS RDS (MySQL Connector) Deployment – Votify Ballot
+☁️ AWS RDS (MySQL Connector) Integration
 
 ![image](https://github.com/user-attachments/assets/0caf4275-71b7-441b-830d-b4ef329f87d5)
 
 ![image](https://github.com/user-attachments/assets/6ecf21f2-fbbc-4693-b6ba-8c8a2b98ff74)
 
+🔐 AWS KMS Encryption
+
 ![image](https://github.com/user-attachments/assets/ae9da104-37e9-4b58-93ce-5ad263d07a15)
+
+🛡️ AWS IAM Role-Based Access
 
 ![image](https://github.com/user-attachments/assets/bdf15e48-3679-4939-87ee-4577b79de36a)
 
