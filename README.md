@@ -2,6 +2,8 @@
 
 ## Votify Ballot - Cloud-Based Secure Voting Portal
 
+---
+
 🔧 Features & Tech Highlights
 
 🛡️ Developed a secure and scalable electronic voting system using Django (Python).
