@@ -1,6 +1,6 @@
 # Votify Ballot - Cloud Application Development
 
-## Votify Ballot - Cloud-Based Secure Voting Portal
+## Votify Ballot - Cloud Integrated Secure Voting Portal
 
 ---
 
