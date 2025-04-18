@@ -7,6 +7,7 @@
 VotifyBallot is a secure and scalable electronic voting platform developed to ensure transparency, reliability, and safety in digital elections. Built using Django (Python) and hosted on AWS, this application guarantees a secure environment for both voters and administrators. With advanced encryption and role-based access, VotifyBallot provides a transparent, efficient, and easy-to-use voting solution.
 
 🔧 Features & Tech Highlights
+
 🛡️ Secure and Scalable Voting System: Developed using Django (Python) for the backend, providing a reliable, secure, and scalable solution for managing digital elections.
 
 🌐 Responsive Frontend: Designed a responsive user interface using HTML, CSS, and Bootstrap for an intuitive and seamless user experience across devices.
@@ -25,6 +26,7 @@ VotifyBallot is a secure and scalable electronic voting platform developed to en
 Configured AWS resources such as EC2, RDS, IAM, and KMS to ensure a fully automated and secure deployment pipeline for the VotifyBallot platform.
 
 🌟 Key Features
+
 -> Voter Verification: Ensures only authorized voters can cast votes, preventing unauthorized access to the platform.
 
 -> Admin-Controlled Vote Management: Allows administrators to securely manage votes and track results.
