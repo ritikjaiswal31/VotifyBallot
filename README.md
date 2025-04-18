@@ -14,7 +14,7 @@
 
 --> Implemented role-based access control and secure resource management using AWS IAM.
 
-☁️ Preparinf AWS Cloud Infrastucture for Deployment – Votify Ballot
+☁️ Preparing AWS Cloud Infrastucture for Deployment – Votify Ballot
 
 ![image](https://user-images.githubusercontent.com/110025521/232314859-46b5cf40-7fdb-4db6-a0e9-27af16c6bbcd.png)
 
@@ -46,14 +46,4 @@
 
 ✅ The application is successfully deployed on the cloud ☁️ using AWS EC2 and AWS RDS (MySQL Connector), with AWS KMS for data encryption and AWS IAM for secure permission policies — Ensuring a Scalable and Secure Cloud Architecture
 
-![image](https://github.com/user-attachments/assets/d7fca592-d2d1-4283-94bb-54fca176922f)
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/0aefb190-6361-4ae5-a0bd-fee2a8683a1a)
