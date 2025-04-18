@@ -1,6 +1,6 @@
 # Votify Ballot - Cloud Application Development
 
-## Votify Ballot: Cloud-Based Secure Voting Platform with AWS Deployment
+## Votify Ballot - Cloud-Based Secure Voting Portal
 
 --> Problem Statement: Intelligent Computing Methods for Developing a Cloud-Based Secure Voting Platform using Django.
 
