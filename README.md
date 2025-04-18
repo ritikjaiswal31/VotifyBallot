@@ -25,13 +25,13 @@ VotifyBallot is a secure and scalable electronic voting platform developed to en
 Configured AWS resources such as EC2, RDS, IAM, and KMS to ensure a fully automated and secure deployment pipeline for the VotifyBallot platform.
 
 🌟 Key Features
-Voter Verification: Ensures only authorized voters can cast votes, preventing unauthorized access to the platform.
+-> Voter Verification: Ensures only authorized voters can cast votes, preventing unauthorized access to the platform.
 
-Admin-Controlled Vote Management: Allows administrators to securely manage votes and track results.
+-> Admin-Controlled Vote Management: Allows administrators to securely manage votes and track results.
 
-Multithreaded Email Notifications: Provides real-time email notifications on login events for enhanced security awareness.
+-> Multithreaded Email Notifications: Provides real-time email notifications on login events for enhanced security awareness.
 
-Role-Based Access: Ensures that only authorized users (voters, admins) can perform specific actions within the system.
+-> Role-Based Access: Ensures that only authorized users (voters, admins) can perform specific actions within the system.
 
 ### ☁️ Preparing AWS Cloud Infrastucture for Deployment – Votify Ballot
 
