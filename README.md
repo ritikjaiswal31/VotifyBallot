@@ -1,6 +1,6 @@
-# VotifyBallot 🗳️
+## VotifyBallot 🗳️
 
-**VotifyBallot** is a secure and scalable electronic voting platform built with **Django (Python)** and hosted on **AWS** to ensure transparency, reliability and safety in digital elections. It leverages advanced encryption mechanisms and role-based access controls to provide a seamless, secure experience for both voters and administrators.
+#### **VotifyBallot** is a secure and scalable electronic voting platform built with **Django (Python)** and hosted on **AWS** to ensure transparency, reliability and safety in digital elections. It leverages advanced encryption mechanisms and role-based access controls to provide a seamless, secure experience for both voters and administrators.
 
 ---
 
