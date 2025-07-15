@@ -4,35 +4,35 @@
 
 ---
 
-## 🔧 Features & Technical Highlights
+### 🔧 Features & Technical Highlights
 
-### 🛡️ Secure and Scalable Architecture
+#### 🛡️ Secure and Scalable Architecture
 - Developed using **Django (Python)** to ensure a robust, secure, and scalable backend suitable for managing digital election processes.
 
-### 🌐 Responsive Frontend
+#### 🌐 Responsive Frontend
 - Designed with **HTML**, **CSS**, and **Bootstrap** to provide an intuitive and responsive user interface across all devices.
 
-### ☁️ Cloud Hosting with AWS EC2
+#### ☁️ Cloud Hosting with AWS EC2
 - Hosted on **AWS EC2** for high availability and performance, ensuring reliability during peak voting hours.
 
 ### 🗃️ Managed Database with AWS RDS (MySQL)
 - Integrated with **AWS RDS (MySQL)** to manage election data securely, with efficient storage and retrieval mechanisms.
 
-### 🔐 Role-Based Access Control with AWS IAM
+#### 🔐 Role-Based Access Control with AWS IAM
 - Utilizes **AWS IAM** for strict role-based access controls (RBAC), limiting access to sensitive election data to authorized personnel only.
 
-### 🧷 Data-at-Rest Encryption using AWS KMS
+#### 🧷 Data-at-Rest Encryption using AWS KMS
 - Ensures all data stored within the system is encrypted using **AWS Key Management Service (KMS)** in compliance with industry security standards.
 
-### ⚙️ Intelligent System Logic
+#### ⚙️ Intelligent System Logic
 - Incorporates intelligent backend logic for secure voter verification, transparent vote storage, and accurate election processing.
 
-### ☁️ Automated Cloud Deployment
+#### ☁️ Automated Cloud Deployment
 - Prepares and configures essential AWS infrastructure including **EC2**, **RDS**, **IAM**, and **KMS**, ensuring secure and streamlined deployment.
 
 ---
 
-## 🌟 Key Functionalities
+### 🌟 Key Functionalities
 
 - ✅ **Voter Verification**
   - Validates voter identity to ensure that only registered and authorized users can cast votes.
@@ -48,7 +48,7 @@
 
 ---
 
-## 📦 Tech Stack
+### 📦 Tech Stack
 
 | Technology      | Purpose                          |
 |----------------|----------------------------------|
@@ -62,7 +62,7 @@
 
 ---
 
-## 🚀 Deployment
+### 🚀 Deployment
 
 > The platform is deployed using AWS cloud infrastructure. Ensure AWS credentials and security policies are properly configured for services like EC2, RDS, IAM, and KMS before initiating deployment.
 
