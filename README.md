@@ -57,6 +57,6 @@
 
 ---
 
-#### ✅ The application is successfully deployed on the cloud ☁️ using AWS EC2 and AWS RDS (MySQL Connector), with AWS KMS for data encryption and AWS IAM for secure permission policies — Ensuring a Scalable and Secure Cloud Architecture
+### Successfully Deployed Application on Amazon Web Services (AWS)
 
 ![image](https://github.com/user-attachments/assets/0aefb190-6361-4ae5-a0bd-fee2a8683a1a)
